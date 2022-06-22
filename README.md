@@ -18,4 +18,4 @@ você precisará de um navegador compatível.
 
 ## Autores
 
-- **Higo Ribeiro** - _Trabalho inicial_ - [@higo.ribeiro.s](https://www.instagram.com/higo.ribeiro.s/)
+- **Higo Ribeiro** - [@higo.ribeiro.s](https://www.instagram.com/higo.ribeiro.s/)
